@@ -1,4 +1,4 @@
-#summary The context of the the tryplex toolkit for team creation.
+#summary The context of the tryplex toolkit for team creation.
 tryplex is driven by the transformation of innovation within networks. We see how Open Source discovers new territories, structures, tools and rules for the creation of ideas. This challenges academic and business players within the creative industries to reinvent themselves.
 
 tryplex enables the design and production of an exhibition with inflatable exhibits. Such exhibits may be produced on the very spot, be easily transported and have a playful look. As equipment tryplex has a large mobile plotter that normally would be used by sailmakers. With this the patterns for our inflatable designs are drawn on plastic films of all kinds. The plotter can use very thick felt-tip pens useful for decoration. A plastic welding machine helps transforming these plots into inflatables.
