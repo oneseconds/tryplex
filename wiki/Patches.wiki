@@ -1,5 +1,7 @@
 = The Quartz Composer Patches =
 
+<wiki:toc max_depth="1" />
+
 ---------------
 ==Kinect Skeleton OSC to SkeletonStruct==
 http://www.oneseconds.com/dev/images/OSCtostruct.jpg
