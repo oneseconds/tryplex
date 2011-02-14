@@ -14,28 +14,21 @@ Xcode (get a membership first, it's free) <a href="http://developer.apple.com/de
 <a href="https://developer.apple.com/ios/download.action?path=/ios/ios_sdk_4.2__final/xcode_3.2.5_and_ios_sdk_4.2_final.dmg">https://developer.apple.com/ios/download.action?path=/ios/ios_sdk_4.2__final/xcode_3.2.5_and_ios_sdk_4.2_final.dmg</a>
 
 
-*Macports*
-
+*Macports*<br>
 <a href="http://distfiles.macports.org/MacPorts/MacPorts-1.9.2-10.6-SnowLeopard.dmg">http://distfiles.macports.org/MacPorts/MacPorts-1.9.2-10.6-SnowLeopard.dmg</a>
 
 
-*Libtool*
-open the terminal and type:
-
-sudo port install libtool
-
+*Libtool*<br>
+open the terminal and type:<br>
+sudo port install libtool<br>
 if it doesn't work, restart your terminal program and try again
 
 
-If during the install it gives this error:
-
-Error: db46 requires the Java for Mac OS X development headers.
-
-Error: Download the Java Developer Package from: 
-
-Error: Target org.macports.configure returned: missing Java headers
-
-Error: Failed to install db46
+If during the install it gives this error:<br>
+Error: db46 requires the Java for Mac OS X development headers.<br>
+Error: Download the Java Developer Package from:<br>
+Error: Target org.macports.configure returned: missing Java headers<br>
+Error: Failed to install db46<br>
 
 
 *Install this package first:*
