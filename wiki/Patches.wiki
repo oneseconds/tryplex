@@ -32,32 +32,32 @@ http://www.oneseconds.com/dev/images/activeplayers.jpg
 This patch receives the OSC information and generates a structure (array) that contains the player's data
 ---------------
 ==Kinect Skeleton Hit Test==
-http://www.oneseconds.com/dev/images/activeplayers.jpg
+http://www.oneseconds.com/dev/images/hittest.jpg
 <br><br>
 Generates a hit test result from a XYZ/Width Height Depth input. Also forwards XYZ Width Height Depth for the hit object.
 ---------------
 ==Kinect Skeleton Multiple Hit Test==
-http://www.oneseconds.com/dev/images/activeplayers.jpg
+http://www.oneseconds.com/dev/images/multiplehit.jpg
 <br><br>
-Generates a Hit test result with userID, from a given element.
+Generates a Hit test result and userID, from a given element.
 ---------------
 ==Kinect Skeleton Acceleration Values==
 http://www.oneseconds.com/dev/images/accelerationvalues.jpg
 <br><br>
-This patch receives the OSC information and generates a structure (array) that contains the player's data
+Outputs the acceleration values for a given element.
 ---------------
 ==Kinect Skeleton Gesture Hands Together==
 http://www.oneseconds.com/dev/images/gesturehandstogether.jpg
 <br><br>
-This patch receives the OSC information and generates a structure (array) that contains the player's data
+Checks if the hands are together. You can set a tolerance value.
 ---------------
 ==Kinect Skeleton Gesture Hands Above Head==
 http://www.oneseconds.com/dev/images/gesturehandsabovehead.jpg
 <br><br>
-This patch receives the OSC information and generates a structure (array) that contains the player's data
+Checks if the hands are above the head.
 ---------------
 ==Kinect Skeleton Gesture Stretch Arms==
 http://www.oneseconds.com/dev/images/gesturestretcharms.jpg
 <br><br>
-This patch receives the OSC information and generates a structure (array) that contains the player's data
+Detects if the arms are stretched towards the kinect camera.
 ---------------
