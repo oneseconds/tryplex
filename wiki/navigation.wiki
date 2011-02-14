@@ -1,4 +1,4 @@
-* [about about]
+ * [about about]
    * [HyperWerk Hyperwerk]
 * [howtouse Docs]
 * [contribute Contribute]
