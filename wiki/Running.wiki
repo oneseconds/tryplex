@@ -8,6 +8,7 @@ Open a terminal window and drag and drop osceleton from the 'OSCeleton and sendO
 <br><br>
 Start the  application sendosc from the 'OSCeleton and sendOSC' folder by double clicking<br><br>
 open '01 01s_single_skeleton' from the 'QC' folder in quartz composer<br><br>
+http://www.oneseconds.com/dev/images/calibrationpose.png
 To calibrate the kinect should have a clear view and you have to stand in front of it with both arms stretched and the upper-arms at 90 degrees. After a second or so it should work and you can move freely!<br>
 If it fails, reposition yourself a bit more to the front/back/left and try again<br><br>
 
