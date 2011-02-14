@@ -1,7 +1,5 @@
-#summary One-sentence summary of this page.
+=Installing Xcode, Libtool, Macports, LibUSB, OpenNI, primesense NITE, avin2/sensorkinect, qcOSC=
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
 
 This is the fast route to install OSCeleton to use with Quartz Composer. The installation should take 1 or 2 hours to complete.
 
