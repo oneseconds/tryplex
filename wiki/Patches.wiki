@@ -4,12 +4,12 @@
 ==Kinect Skeleton OSC to SkeletonStruct==
 http://www.oneseconds.com/dev/images/OSCtostruct.jpg
 <br><br>
-This patch receives the OSC information and generates a structure (array) that contains the player's data
+Receives the OSC data and makes the SkeletonStruct.
 ---------------
 ==Kinect Skeleton Stickman==
 http://www.oneseconds.com/dev/images/stickman.jpg
 <br><br>
-This patch receives the OSC information and generates a structure (array) that contains the player's data
+This renders a standart stickman figure with the SkeletonStruct as input. You can change color, bone thickness and userID
 ---------------
 ==Kinect Skeleton Get Element==
 http://www.oneseconds.com/dev/images/getelement.jpg
@@ -30,6 +30,16 @@ This patch receives the OSC information and generates a structure (array) that c
 http://www.oneseconds.com/dev/images/activeplayers.jpg
 <br><br>
 This patch receives the OSC information and generates a structure (array) that contains the player's data
+---------------
+==Kinect Skeleton Hit Test==
+http://www.oneseconds.com/dev/images/activeplayers.jpg
+<br><br>
+Generates a hit test result from a XYZ/Width Height Depth input. Also forwards XYZ Width Height Depth for the hit object.
+---------------
+==Kinect Skeleton Multiple Hit Test==
+http://www.oneseconds.com/dev/images/activeplayers.jpg
+<br><br>
+Generates a Hit test result with userID, from a given element.
 ---------------
 ==Kinect Skeleton Acceleration Values==
 http://www.oneseconds.com/dev/images/accelerationvalues.jpg
