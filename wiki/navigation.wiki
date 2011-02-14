@@ -1,4 +1,4 @@
 * [About]
-* [Installation]
+* [Installation How to install]
 * [Running]
 * [Patches]
