@@ -1,3 +1,7 @@
 = The Quartz Composer Patches =
 
-|| test 1 || = Kinect Skeleton Acceleration Values = more and test ||
+<table width="80%" border="0" cellspacing="4" cellpadding="0">
+  <tr>
+    <td>afbeelding</td>
+    <td>test 1</td>
+  </tr>
