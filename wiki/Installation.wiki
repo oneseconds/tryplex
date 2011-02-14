@@ -4,24 +4,26 @@ Add your content here.  Format your content with:
   * Text in *bold* or _italic_
 
 This is the fast route to install OSCeleton to use with Quartz Composer. The installation should take 1 or 2 hours to complete.
+
 For this to work I've used the processing sample to reroute the osc messages into a format that quartz could read. At the moment it only works for one person.
+
 In this setup I'm still using the 11/1/2010 build of OSCeleton, it seems to be the most reliable version for osx at the moment. There's a <a href="https://github.com/Sensebloom/OSCeleton" target="_new">newer version</a> (with QC OSC support!) but I still get segmentation errors sometimes and jerky knee/feet data with that version. When there's a more stable build of OSCeleton I'll update this page.
 
 *Download and install this:*
- Xcode (get a membership first, it's free) <a href="http://developer.apple.com/devcenter/mac/index.action">http://developer.apple.com/devcenter/mac/index.action</a>
- <a href="https://developer.apple.com/ios/download.action?path=/ios/ios_sdk_4.2__final/xcode_3.2.5_and_ios_sdk_4.2_final.dmg">https://developer.apple.com/ios/download.action?path=/ios/ios_sdk_4.2__final/xcode_3.2.5_and_ios_sdk_4.2_final.dmg</a>
- Macports, <a href="http://distfiles.macports.org/MacPorts/MacPorts-1.9.2-10.6-SnowLeopard.dmg">http://distfiles.macports.org/MacPorts/MacPorts-1.9.2-10.6-SnowLeopard.dmg</a>
+Xcode (get a membership first, it's free) <a href="http://developer.apple.com/devcenter/mac/index.action">http://developer.apple.com/devcenter/mac/index.action</a>
+<a href="https://developer.apple.com/ios/download.action?path=/ios/ios_sdk_4.2__final/xcode_3.2.5_and_ios_sdk_4.2_final.dmg">https://developer.apple.com/ios/download.action?path=/ios/ios_sdk_4.2__final/xcode_3.2.5_and_ios_sdk_4.2_final.dmg</a>
+Macports, <a href="http://distfiles.macports.org/MacPorts/MacPorts-1.9.2-10.6-SnowLeopard.dmg">http://distfiles.macports.org/MacPorts/MacPorts-1.9.2-10.6-SnowLeopard.dmg</a>
 
 *Libtool*
- open the terminal and type:
- sudo port install libtool
- if it doesn't work, restart your terminal program and try again
+open the terminal and type:
+sudo port install libtool
+if it doesn't work, restart your terminal program and try again
 
- If during the install it gives this error:
-  Error: db46 requires the Java for Mac OS X development headers.
-  Error: Download the Java Developer Package from: 
-  Error: Target org.macports.configure returned: missing Java headers
-  Error: Failed to install db46
+If during the install it gives this error:
+Error: db46 requires the Java for Mac OS X development headers.
+Error: Download the Java Developer Package from: 
+Error: Target org.macports.configure returned: missing Java headers
+Error: Failed to install db46
 
 *Install this package first:*
 <a href="https://connect.apple.com/cgi-bin/WebObjects/MemberSite.woa/wa/getSoftware?bundleID=20719" target="_new">https://connect.apple.com/cgi-bin/WebObjects/MemberSite.woa/wa/getSoftware?bundleID=20719</a>
