@@ -10,6 +10,7 @@ In this setup I'm still using the 11/1/2010 build of OSCeleton, it seems to be t
 
 
 *Download and install this:*
+
 Xcode (get a membership first, it's free) <a href="http://developer.apple.com/devcenter/mac/index.action">http://developer.apple.com/devcenter/mac/index.action</a>
 
 <a href="https://developer.apple.com/ios/download.action?path=/ios/ios_sdk_4.2__final/xcode_3.2.5_and_ios_sdk_4.2_final.dmg">https://developer.apple.com/ios/download.action?path=/ios/ios_sdk_4.2__final/xcode_3.2.5_and_ios_sdk_4.2_final.dmg</a>
@@ -22,14 +23,22 @@ Xcode (get a membership first, it's free) <a href="http://developer.apple.com/de
 
 *Libtool*
 open the terminal and type:
+
 sudo port install libtool
+
 if it doesn't work, restart your terminal program and try again
 
+
 If during the install it gives this error:
+
 Error: db46 requires the Java for Mac OS X development headers.
+
 Error: Download the Java Developer Package from: 
+
 Error: Target org.macports.configure returned: missing Java headers
+
 Error: Failed to install db46
+
 
 *Install this package first:*
 <a href="https://connect.apple.com/cgi-bin/WebObjects/MemberSite.woa/wa/getSoftware?bundleID=20719" target="_new">https://connect.apple.com/cgi-bin/WebObjects/MemberSite.woa/wa/getSoftware?bundleID=20719</a>
