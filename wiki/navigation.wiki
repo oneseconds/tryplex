@@ -1,4 +1,3 @@
-* [About]
-* [Installation How to install]
-* [Running]
-* [Patches]
+* [about about]
+* [howtouse Docs]
+* [contribute Contribute]
