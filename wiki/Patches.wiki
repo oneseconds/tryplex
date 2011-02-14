@@ -14,17 +14,17 @@ This renders a standart stickman figure with the SkeletonStruct as input. You ca
 ==Kinect Skeleton Get Element==
 http://www.oneseconds.com/dev/images/getelement.jpg
 <br><br>
-This patch receives the OSC information and generates a structure (array) that contains the player's data
+Outputs a XYZ value for the given element from a skeleton with the set UserID.
 ---------------
 ==Kinect Skeleton Labels==
 http://www.oneseconds.com/dev/images/skeletonlabels.jpg
 <br><br>
-This patch receives the OSC information and generates a structure (array) that contains the player's data
+Shows the labels for each skeleton element. It's feeded by the SkeletonStruct and you can set the UserID
 ---------------
 ==Kinect Skeleton Mid, Rot and distance from elements==
 http://www.oneseconds.com/dev/images/midrotwidth.jpg
 <br><br>
-This patch receives the OSC information and generates a structure (array) that contains the player's data
+Outputs the Middle point, rotation and distance from two given points
 ---------------
 ==Kinect Skeleton Active Players==
 http://www.oneseconds.com/dev/images/activeplayers.jpg
