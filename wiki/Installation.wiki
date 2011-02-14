@@ -53,9 +53,9 @@ Download and unpack the processing applet, OSCeleton 11/1/2010 osx build and QC 
   <br><br>
 *Download and install qcOsc:*<br>
 <a href="http://hexler.net/software/qcosc">http://hexler.net/software/qcosc</a>
-
-If all went well, * [Running go here to test it!]
 <br><br>
+If all went well, * [Running go here to test it!]
+<br><br><br>
 *Common errors people encountered*<br>
 
 *Segmentation fault*<br>
