@@ -40,7 +40,7 @@ Download the 'PrimeSense NITE Unstable Build for for MacOSX 10.6 Universal x86/x
 <br><br>
 Now in the terminal go to the NITE directory (the easy way: type 'cd ' and drag and drop the directory from the finder and press enter) and type:<br>
 sudo sh install.sh<br>
-use <span style="font-family: Monaco, Courier New, Courier,mono;">0KOIk2JeIBYClPWVnMoRKn5cdY4=</span> as licence key<br>
+use 0KOIk2JeIBYClPWVnMoRKn5cdY4= as licence key
 
 <br><br>
 *Download the avin2/sensorkinect drivers at:*<br>
