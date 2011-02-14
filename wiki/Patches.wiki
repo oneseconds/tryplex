@@ -1,9 +1,8 @@
 = The Quartz Composer Patches =
 
-<table width="80%" border="0" cellspacing="10" cellpadding="0">
-  <tr>
-    <td>afbeelding</td>
-    <td><b>Kinect Skeleton OSC to SkeletonStruct</b>
+
+==Kinect Skeleton OSC to SkeletonStruct==
+Image
 <br><br>
 This patch receives the OSC information and generates a structure (array) that contains the player's data
-</td></tr></table>
+---
