@@ -6,3 +6,48 @@ http://www.oneseconds.com/dev/images/OSCtostruct.jpg
 <br><br>
 This patch receives the OSC information and generates a structure (array) that contains the player's data
 ---------------
+==Kinect Skeleton Stickman==
+http://www.oneseconds.com/dev/images/stickman.jpg
+<br><br>
+This patch receives the OSC information and generates a structure (array) that contains the player's data
+---------------
+==Kinect Skeleton Get Element==
+http://www.oneseconds.com/dev/images/getelement.jpg
+<br><br>
+This patch receives the OSC information and generates a structure (array) that contains the player's data
+---------------
+==Kinect Skeleton Labels==
+http://www.oneseconds.com/dev/images/skeletonlabels.jpg
+<br><br>
+This patch receives the OSC information and generates a structure (array) that contains the player's data
+---------------
+==Kinect Skeleton Mid, Rot and distance from elements==
+http://www.oneseconds.com/dev/images/midrotwidth.jpg
+<br><br>
+This patch receives the OSC information and generates a structure (array) that contains the player's data
+---------------
+==Kinect Skeleton Active Players==
+http://www.oneseconds.com/dev/images/activeplayers.jpg
+<br><br>
+This patch receives the OSC information and generates a structure (array) that contains the player's data
+---------------
+==Kinect Skeleton Acceleration Values==
+http://www.oneseconds.com/dev/images/accelerationvalues.jpg
+<br><br>
+This patch receives the OSC information and generates a structure (array) that contains the player's data
+---------------
+==Kinect Skeleton Gesture Hands Together==
+http://www.oneseconds.com/dev/images/gesturehandstogether.jpg
+<br><br>
+This patch receives the OSC information and generates a structure (array) that contains the player's data
+---------------
+==Kinect Skeleton Gesture Hands Above Head==
+http://www.oneseconds.com/dev/images/gesturehandsabovehead.jpg
+<br><br>
+This patch receives the OSC information and generates a structure (array) that contains the player's data
+---------------
+==Kinect Skeleton Gesture Stretch Arms==
+http://www.oneseconds.com/dev/images/gesturestretcharms.jpg
+<br><br>
+This patch receives the OSC information and generates a structure (array) that contains the player's data
+---------------
