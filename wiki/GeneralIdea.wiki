@@ -1,3 +1,5 @@
+=GeneralIdea=
+
 #summary The context of the tryplex toolkit for team creation.
 tryplex is driven by the transformation of innovation within networks. We see how Open Source discovers new territories, structures, tools and rules for the creation of ideas. This challenges academic and business players within the creative industries to reinvent themselves.
 
