@@ -1,6 +1,15 @@
 = Introduction =
 If you've completed installation procedure, and it's working it's time to play!
 
+*To run*<br>
+Connect the kinect<br>
+Open a terminal window and drag and drop osceleton from the 'OSCeleton and sendOSC' folder to the terminal window (starting it from the finder doesn't work!!) and press enter
+
+<br><br>
+Start the  application sendosc from the 'OSCeleton and sendOSC' folder by double clicking<br><br>
+open '01 01s_single_skeleton' from the 'QC' folder in quartz composer<br><br>
+To calibrate the kinect should have a clear view and you have to stand in front of it with both arms stretched and the upper-arms at 90 degrees. After a second or so it should work and you can move freely!<br>
+If it fails, reposition yourself a bit more to the front/back/left and try again<br><br>
 
 
 It's best to open en play around with the examples in the numbered order, so you'll get an idea of how all patches work.
