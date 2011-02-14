@@ -3,7 +3,7 @@
    * [HyperWerk Hyperwerk]
    * [oneseconds Oneseconds]
 * [docs Installing and Using]
-   * [Installing Installing]
+   * [Installation Installing]
    * [Running Running]
    * [Patches The Patches]
    * [Samples The Samples]
