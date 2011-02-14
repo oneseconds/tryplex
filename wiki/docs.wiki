@@ -1,8 +1,8 @@
 = Installing and using =
 
-To use the macro patches you'll need a working install of OSCeleton.<br>
+To use the macro patches you'll need a working install of Xcode and the openNI/Nite/avin2 sensorkinect drivers and OSCeleton.<br>
 
 We've made a * [Installation Installation guide] where you can find the fast route to install OSCeleton and all the drivers for it to run.<br>
 
-For this setup to work I've included a processing app to reroute the osc messages into a format that quartz can read, and I'm still using the 11/1/2010 build of OSCeleton, it seems to be the most stable version yet for osx at the moment. When there's a more stable build of OSCeleton I'll update the source.<br>
+For this setup to work I've included a processing app to reroute the osc messages into a format that quartz can read. We're still using the 11/1/2010 build of OSCeleton, it seems to be the most stable version yet for osx at the moment. When there's a more stable build of OSCeleton I'll update the source.<br>
 Both of these app's are included.
