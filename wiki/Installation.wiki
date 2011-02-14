@@ -78,6 +78,6 @@ either you're using the latest osceleton build (this error pops up now and then,
 <br><br>
 
 *Image not found*<br>
-Maybe the camera is used by another application, close any open programs and the termincal, disconnect and reconect the kinect. Or libusb is not installed (correctly) uninstall and reinstall by opening a new terminal window and type: sudo port uninstall libusb-devel and then:<br>
+Maybe the camera is used by another application, close any open programs and the termincal, disconnect and reconnect the kinect. Or libusb is not installed (correctly) uninstall and reinstall by opening a new terminal window and type: sudo port uninstall libusb-devel and then:<br>
 sudo port install libusb-devel +universal<br>
 Restart your terminal program and try again. If it still fails, try reinstalling from the begin.
