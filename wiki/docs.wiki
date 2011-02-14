@@ -1,6 +1,6 @@
 = Installing and using =
 
-We've created Quartz Composer macro patches to make it easier to work with the data OSCeleton outputs.<br>
+We've created Quartz Composer macro patches to make it easier to work with the data from OSCeleton.<br>
 For each patch we've created a simple sample so you can see how it works.<br>
 
 To use the macro patches you'll need a working install of Xcode, qcOSC and the openNI/Nite/avin2 sensorkinect drivers and OSCeleton.<br>
