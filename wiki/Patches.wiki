@@ -2,7 +2,7 @@
 
 ---------------
 ==Kinect Skeleton OSC to SkeletonStruct==
-Image
+http://www.oneseconds.com/dev/images/OSCtostruct.jpg
 <br><br>
 This patch receives the OSC information and generates a structure (array) that contains the player's data
 ---------------
