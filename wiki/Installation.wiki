@@ -14,19 +14,13 @@ Macports, <a href="http://distfiles.macports.org/MacPorts/MacPorts-1.9.2-10.6-Sn
 
 *Libtool*
 open the terminal and type:
-
 sudo port install libtool
-
 if it doesn't work, restart your terminal program and try again
 
 If during the install it gives this error:
-
 Error: db46 requires the Java for Mac OS X development headers.
-
 Error: Download the Java Developer Package from: 
-
 Error: Target org.macports.configure returned: missing Java headers
-
 Error: Failed to install db46
 
 *Install this package first:*
