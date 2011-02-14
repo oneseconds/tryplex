@@ -1,13 +1,6 @@
-#summary One-sentence summary of this page.
-
 = Introduction =
+If you've completed installation procedure, and it's working it's time to play!
 
-Add your content here.
 
 
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+It's best to open en play around with the examples in the numbered order, so you'll get an idea of how all patches work.
