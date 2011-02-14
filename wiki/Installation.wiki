@@ -8,9 +8,7 @@ In this setup I'm still using the 11/1/2010 build of OSCeleton, it seems to be t
 
 
 *Download and install this:*
-
-Xcode (get a membership first, it's free) <a href="http://developer.apple.com/devcenter/mac/index.action">http://developer.apple.com/devcenter/mac/index.action</a>
-
+Xcode (get a membership first, it's free) <a href="http://developer.apple.com/devcenter/mac/index.action">http://developer.apple.com/devcenter/mac/index.action</a><br>
 <a href="https://developer.apple.com/ios/download.action?path=/ios/ios_sdk_4.2__final/xcode_3.2.5_and_ios_sdk_4.2_final.dmg">https://developer.apple.com/ios/download.action?path=/ios/ios_sdk_4.2__final/xcode_3.2.5_and_ios_sdk_4.2_final.dmg</a>
 
 
@@ -30,48 +28,58 @@ Error: Download the Java Developer Package from:<br>
 Error: Target org.macports.configure returned: missing Java headers<br>
 Error: Failed to install db46<br>
 
-
 *Install this package first:*
-<a href="https://connect.apple.com/cgi-bin/WebObjects/MemberSite.woa/wa/getSoftware?bundleID=20719" target="_new">https://connect.apple.com/cgi-bin/WebObjects/MemberSite.woa/wa/getSoftware?bundleID=20719</a>
+<a href="https://connect.apple.com/cgi-bin/WebObjects/MemberSite.woa/wa/getSoftware?bundleID=20719" target="_new">https://connect.apple.com/cgi-bin/WebObjects/MemberSite.woa/wa/getSoftware?bundleID=20719</a><br>
 The latest OSX doesn't include the Java for Mac OS X development headers annymore standard.
 
-*LibUSB, in the terminal type:*
-sudo port install libusb-devel +universal
-Download the 'OpenNI Unstable Build for MacOSX 10.6 Universal x86/x64 (32/64-bit) v1.0.0.25' from: <a href="http://www.openni.org/downloadfiles/openni-binaries/20-latest-unstable">http://www.openni.org/downloadfiles/openni-binaries/20-latest-unstable</a> and expand the files.
-In the terminal go to the OpenNI directory (the easy way: type 'cd ' and drag and drop the directory from the finder and press enter) and type:;sudo sh install.sh
+
+*LibUSB*
+In the terminal type:<br>
+sudo port install libusb-devel +universal<br>
+Download the 'OpenNI Unstable Build for MacOSX 10.6 Universal x86/x64 (32/64-bit) v1.0.0.25' from: <a href="http://www.openni.org/downloadfiles/openni-binaries/20-latest-unstable">http://www.openni.org/downloadfiles/openni-binaries/20-latest-unstable</a> and expand the files.<br>
+In the terminal go to the OpenNI directory (the easy way: type 'cd ' and drag and drop the directory from the finder and press enter) and type:;sudo sh install.sh<br>
 Download the 'PrimeSense NITE Unstable Build for for MacOSX 10.6 Universal x86/x64 (32/64-bit) v1.3.0.18' from: <a href="http://www.openni.org/downloadfiles/openni-compliant-middleware-binaries/33-latest-unstable">http://www.openni.org/downloadfiles/openni-compliant-middleware-binaries/33-latest-unstable</a> and expand the files.
+
   
-Now in the terminal go to the NITE directory (the easy way: type 'cd ' and drag and drop the directory from the finder and press enter) and type:;
-sudo sh install.sh
-use <span style="font-family: Monaco, Courier New, Courier,mono;">0KOIk2JeIBYClPWVnMoRKn5cdY4=</span> as licence key
+Now in the terminal go to the NITE directory (the easy way: type 'cd ' and drag and drop the directory from the finder and press enter) and type:<br>
+sudo sh install.sh<br>
+use <span style="font-family: Monaco, Courier New, Courier,mono;">0KOIk2JeIBYClPWVnMoRKn5cdY4=</span> as licence key<br>
 
 *Download the avin2/sensorkinect drivers at:*
-<a href="https://github.com/avin2/SensorKinect">https://github.com/avin2/SensorKinect</a> and expand the files.
-Navigate to the avin2/bin folder and expand the 'SensorKinect-MacOSX-5.0.0.tar.bz2' file.
-In the terminal, go to the avin2/bin/SensorKinect-MacOSX-5.0.0 folder and type:
-sudo sh install.sh
+<a href="https://github.com/avin2/SensorKinect">https://github.com/avin2/SensorKinect</a> and expand the files.<br>
+Navigate to the avin2/bin folder and expand the 'SensorKinect-MacOSX-5.0.0.tar.bz2' file.<br>
+In the terminal, go to the avin2/bin/SensorKinect-MacOSX-5.0.0 folder and type:<br>
+sudo sh install.sh<br>
 Download and unpack the processing applet, OSCeleton 11/1/2010 osx build and QC example <a href="dev/qcosceleton.zip">QCosceleton.zip</a>
+
   
 *Download and install qcOsc:*
 <a href="http://hexler.net/software/qcosc">http://hexler.net/software/qcosc</a>
 
+
 *To run*
-Connect the kinect
+Connect the kinect<br>
 Open a terminal window and drag and drop osceleton from Sensebloom-OSCeleton/bin/OSX/ to a terminal window (starting from the finder doesn't work at the moment) and press enter
+
   
 Test it by standing in front of the kinect (in the terminal window it should say something like new user 1)
 
+
 *Start the  application sendosc*
-open stickman.qtz
-To calibrate the kinect should have a clear view and stand in front of it with both arms stretched and the upper-arms at 90 degrees. After a second or so it should work and you can move freely!
+open stickman.qtz<br>
+To calibrate the kinect should have a clear view and stand in front of it with both arms stretched and the upper-arms at 90 degrees. After a second or so it should work and you can move freely!<br>
+
 
 Good luck, and please post back any of the patches or improvements you make!
 
 
 *Common errors people encountered*
-Segmentation fault, either you're using the latest osceleton build (this error pops up now and then, but in between it works). Or the camera is used by another application, close any open programs and the terminal, disconnect and reconect the kinect. If it still fails, try reinstalling from the begin.
-Image not found. Maybe the camera is used by another application, close any open programs and the termincal, disconnect and reconect the kinect. Or libusb is not installed (correctly) uninstall and reinstall by opening a new terminal window and type: sudo port uninstall libusb-devel and then:
-sudo port install libusb-devel +universal
-Restart your terminal program and try again. If it still fails, try reinstalling from the begin.
 
-Got questions, contact me <a href="mailto:sebastian@oneseconds.com">here</a>
+*Segmentation fault*
+either you're using the latest osceleton build (this error pops up now and then, but in between it works). Or the camera is used by another application, close any open programs and the terminal, disconnect and reconect the kinect. If it still fails, try reinstalling from the begin.
+
+
+*Image not found*
+Maybe the camera is used by another application, close any open programs and the termincal, disconnect and reconect the kinect. Or libusb is not installed (correctly) uninstall and reinstall by opening a new terminal window and type: sudo port uninstall libusb-devel and then:<br>
+sudo port install libusb-devel +universal<br>
+Restart your terminal program and try again. If it still fails, try reinstalling from the begin.
