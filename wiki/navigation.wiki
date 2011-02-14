@@ -6,5 +6,4 @@
    * [Installation Installing]
    * [Running Running]
    * [Patches The Patches]
-   * [Samples The Samples]
  * [contribute Contribute]
