@@ -7,4 +7,4 @@ Image
 This patch receives the OSC information and generates a structure (array) that contains the player's data
 ---- 
 
----- 
+---------------
