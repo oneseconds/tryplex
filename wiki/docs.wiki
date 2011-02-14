@@ -1,1 +1,6 @@
 = Installing and using =
+
+[* Installing In the install guide *] you can find the fast route to install OSCeleton to use with Quartz Composer. The installation should take 1 or 2 hours to complete.<br>
+
+For this setup to work I've included a processing app to reroute the osc messages into a format that quartz can read.<br>
+And I'm still using the 11/1/2010 build of OSCeleton, it seems to be the most stable version yet for osx at the moment. When there's a more stable build of OSCeleton I'll update the source.
