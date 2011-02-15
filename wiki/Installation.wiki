@@ -54,6 +54,9 @@ Download and unpack the processing applet, OSCeleton 11/1/2010 osx build and QC 
 *Download and install qcOsc:*<br>
 <a href="http://hexler.net/software/qcosc">http://hexler.net/software/qcosc</a>
 <br><br>
+*Download and install the kineme structure maker:*<br>
+http://kineme.net/release/StructureTools/01<br><br>
+
 If all went well, * [Running go here to test it!]
 <br><br><br>
 *Common errors people encountered*<br>
