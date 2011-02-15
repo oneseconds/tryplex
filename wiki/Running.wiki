@@ -3,7 +3,7 @@ If you've completed installation procedure, and it's working it's time to play!
 
 *To run*<br>
 Connect the kinect<br>
-Open a terminal window and drag and drop osceleton from the 'OSCeleton and sendOSC' folder to the terminal window (starting it from the finder doesn't work!!) and press enter
+Open a terminal window and drag and drop osceleton from the 'OSCeleton and sendOSC' folder to the terminal window *(opening from the finder doesn't work!!)* and press enter
 
 <br><br>
 Start the  application sendosc from the 'OSCeleton and sendOSC' folder by double clicking<br><br>
