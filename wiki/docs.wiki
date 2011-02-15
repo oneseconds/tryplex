@@ -1,5 +1,7 @@
 = Installing and using =
 
+<iframe src="http://player.vimeo.com/video/19967846?title=0&amp;byline=0&amp;portrait=0&amp;color=ffffff" width="398" height="299" frameborder="0"></iframe>
+
 We've created Quartz Composer macro patches to make it easier to work with the data from OSCeleton.<br>
 For each patch we've created a simple sample so you can see how it works.<br>
 
