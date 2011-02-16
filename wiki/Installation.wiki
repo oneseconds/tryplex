@@ -84,13 +84,16 @@ Quit and restart QC and open the composition again, and it'll work. Once a new v
 
 
 <br><br><br>
-*Common errors people encountered*<br>
+=Common errors people encountered=<br>
 
 *Segmentation fault*<br>
 either you're using the latest osceleton build (this error pops up now and then, but in between it works). Or the camera is used by another application, close any open programs and the terminal, disconnect and reconect the kinect. If it still fails, try reinstalling from the begin.
 <br><br>
 
-*Image not found*<br>
+*Image not found/bus error*<br>
 Maybe the camera is used by another application, close any open programs and the termincal, disconnect and reconnect the kinect. Or libusb is not installed (correctly) uninstall and reinstall by opening a new terminal window and type: sudo port uninstall libusb-devel and then:<br>
 sudo port install libusb-devel +universal<br>
 Restart your terminal program and try again. If it still fails, try reinstalling from the begin.
+
+*Quartz composer closes/crashes when opening an example*
+Maybe Quartz isn't in 32-bit mode yet. Locate the Quartz Composer app in the Developer/Applications folder and press CMD+I when selected. Now select 32-bit mode.
