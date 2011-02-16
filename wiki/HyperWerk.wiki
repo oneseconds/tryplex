@@ -9,43 +9,43 @@ Within the interdisciplinary and project oriented HyperWerk students learn how t
 <br><br>
 *Some facts on HyperWerk*
 
-<br>* 100 persons
-<br>* 1993 HyperStudio, 1999 HyperWerk
-<br>* Fulltime bachelor studies (3 years)
-<br>* Each year there are 7 modules of 5 weeks each
-<br>* Each year we look at a new topic with new partners
-<br>* 1600 square meters (plus 8000 in France)
+  * 100 persons
+  * 1993 HyperStudio, 1999 HyperWerk
+  * Fulltime bachelor studies (3 years)
+  * Each year there are 7 modules of 5 weeks each
+  * Each year we look at a new topic with new partners
+  * 1600 square meters (plus 8000 in France)
 <br><br>
 *Postindustrial Design?*
-<br>* Postindustrial Design applies technology, design and management with the purpose of using and influencing the energies of social transformation.
-<br>* Postindustrial Design improves the strategies and tools for interaction in education, leisure and business. 
-<br>* Postindustrial Design qualifies for the management of interaction and for the design of processes within and for dynamically changing circumstances.
+  * Postindustrial Design applies technology, design and management with the purpose of using and influencing the energies of social transformation.
+  * Postindustrial Design improves the strategies and tools for interaction in education, leisure and business. 
+  * Postindustrial Design qualifies for the management of interaction and for the design of processes within and for dynamically changing circumstances.
 <br><br>
 *Acting as our own testbed*
 * Two promises for new students: 
-<br> 1) We will transform our aims, questions, methods, structures, rituals and tools radically during the course of your studies. 
-<br> 2) You will be expected to participate in this act of permanent creation.
+  # We will transform our aims, questions, methods, structures, rituals and tools radically during the course of your studies. 
+  # 2) You will be expected to participate in this act of permanent creation.
 <br><br>
 * Core business: Information society has transformed education into a core business to be explored and exploited; HyperWerk positions itself as the testbed to investigate innovative means for cooperative learning processes. To participate in this experience has become our main educational promise and purpose.
 <br><br>
 *answers to a question*
-* Each year HyperWerk defines itself afresh through the definition of a new problem to be solved.
-* The problem always will be found and defined by the freshmen during their first year.
-* During their second year HyperWerk puts together an international team of external institutions especially suitable for finding answers to the problem.
+  * Each year HyperWerk defines itself afresh through the definition of a new problem to be solved.
+  * The problem always will be found and defined by the freshmen during their first year.
+  * During their second year HyperWerk puts together an international team of external institutions especially suitable for finding answers to the problem.
 <br><br>
 *Hyper Strategies*
-* Core competence: Specialize in not specializing
-* Ask big questions: Be in need of other people and views
-* Cultivate cooperation: Between teams, institutions, cultures
-* Share the load: Don’t compete – delegate whatever you can
-* Sell your problem: Become an educational lab of change
-* Act anticyclic: Differ, if you have no idea what else to do
-* Use what happens: Do not insist – be open to surprise
+  * Core competence: Specialize in not specializing
+  * Ask big questions: Be in need of other people and views
+  * Cultivate cooperation: Between teams, institutions, cultures
+  * Share the load: Don’t compete – delegate whatever you can
+  * Sell your problem: Become an educational lab of change
+  * Act anticyclic: Differ, if you have no idea what else to do
+  * Use what happens: Do not insist – be open to surprise
 <br><br>
 *Who should study with us?*
-* Attitude: Rebellious personalities with strong heads and perseverance. They should be willing to gain and share their technological, economical, social and competencenes within interdisciplinary and project oriented teams. 
-* Entry conditions: To have produced something to be proud of, a high level of social intelligence and no fear of technology.
-* Decision time: Three days of assessment 
+  * Attitude: Rebellious personalities with strong heads and perseverance. They should be willing to gain and share their technological, economical, social and competencenes within interdisciplinary and project oriented teams. 
+  * Entry conditions: To have produced something to be proud of, a high level of social intelligence and no fear of technology.
+  * Decision time: Three days of assessment 
 
 
 http://hyperwerk.ch
