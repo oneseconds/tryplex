@@ -1,7 +1,7 @@
 = Introduction =
 If you've completed installation procedure, and it's working it's time to play!
 
-First of all, Quartz Composer should be in 32-bit mode. To do this, locate the Quartz Composer app in the Developer/Applications folder and press CMD+I when selected. Now select 32-bit mode.
+First of all, *Quartz Composer should be in 32-bit mode*. To do this, locate the Quartz Composer app in the Developer/Applications folder and press CMD+I when selected. Now select 32-bit mode.
 
 *To run*<br>
 Connect the kinect<br>
