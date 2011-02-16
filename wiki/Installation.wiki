@@ -84,7 +84,7 @@ Quit and restart QC and open the composition again, and it'll work. Once a new v
 <br><br><br>
 
 =For questions, error's suggestions, please report to the [http://groups.google.com/group/tryplex-kinect-toolkit discussion group!].=
-
+<br><br><br>
 =Common errors people encountered=
 
 *Segmentation fault*<br>
