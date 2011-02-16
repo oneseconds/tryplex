@@ -96,5 +96,5 @@ Maybe the camera is used by another application, close any open programs and the
 sudo port install libusb-devel +universal<br>
 Restart your terminal program and try again. If it still fails, try reinstalling from the begin.
 
-*Quartz composer closes/crashes when opening an example*
+*Quartz composer closes/crashes when opening an example*<br>
 Maybe Quartz isn't in 32-bit mode yet. Locate the Quartz Composer app in the Developer/Applications folder and press CMD+I when selected. Now select 32-bit mode.
