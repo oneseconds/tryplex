@@ -3,5 +3,4 @@
    * [oneseconds Oneseconds]
  * [docs Installing and Using]
    * [Installation Installing]
-   * [Running Running]
    * [Patches The Patches]
