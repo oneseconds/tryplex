@@ -50,14 +50,39 @@ In the terminal, go to the avin2/bin/SensorKinect-MacOSX-5.0.0 folder and type:<
 sudo sh install.sh<br>
 Download and unpack the processing applet, OSCeleton 11/1/2010 osx build and QC example <a href="dev/qcosceleton.zip">QCosceleton.zip</a>
 
-  <br><br>
+  <br><br><br>
 *Download and install qcOsc:*<br>
 <a href="http://hexler.net/software/qcosc">http://hexler.net/software/qcosc</a>
 <br><br>
 *Download and install the kineme structure maker:*<br>
 http://kineme.net/release/StructureTools/01<br><br>
 
-If all went well, * [Running go here to test it!]
+If you've completed installation procedure, and it's working it's time to play!
+
+=Running=
+
+First of all, *Quartz Composer should be in 32-bit mode*. To do this, locate the Quartz Composer app in the Developer/Applications folder and press CMD+I when selected. Now select 32-bit mode.
+
+*To run*<br>
+Connect the kinect<br>
+Open a terminal window and drag and drop osceleton from the 'OSCeleton and sendOSC' folder to the terminal window *(opening from the finder doesn't work!!)* and press enter
+
+<br><br>
+Start the  application sendosc from the 'OSCeleton and sendOSC' folder by double clicking<br><br>
+open '01 01s_single_skeleton' from the 'QC' folder in quartz composer<br><br>
+http://www.oneseconds.com/dev/images/calibrationpose.png<br><br>
+To calibrate the kinect should have a clear view and you have to stand in front of it with both arms stretched and the upper-arms at 90 degrees. After a second or so it should work and you can move freely!<br>
+If it fails, reposition yourself a bit more to the front/back/left and try again<br><br>
+
+It's best to open en play around with the examples in the numbered order, so you'll get an idea of how all patches work.<br><br>
+
+To install the macro's in your library place them in the /library/graphics/Quartz Composer Patches/ folder. Quit and restart QC to activate them.<br><br>
+
+
+QCosc can't open the same port twice so when you open a second composition it gives an error: 'Error opening socket on specified port. Please choose a different port.'.<br>
+Quit and restart QC and open the composition again, and it'll work. Once a new version of OSCeleton will be around this error will be gone.
+
+
 <br><br><br>
 *Common errors people encountered*<br>
 
