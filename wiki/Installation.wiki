@@ -83,7 +83,7 @@ QCosc can't open the same port twice so when you open a second composition it gi
 Quit and restart QC and open the composition again, and it'll work. Once a new version of OSCeleton will be around this error will be gone.
 <br><br><br>
 
-For questions/error's please report to the [http://groups.google.com/group/tryplex-kinect-toolkit discussion group!].
+=For questions, error's suggestions, please report to the [http://groups.google.com/group/tryplex-kinect-toolkit discussion group!].=
 
 =Common errors people encountered=
 
