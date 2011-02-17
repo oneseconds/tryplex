@@ -22,6 +22,9 @@ Xcode (get a membership first, it's free)<br>
 *Libtool*<br>
 open the terminal and type:<br>
 sudo port install libtool<br>
+
+[http://www.oneseconds.com/dev/images/libtool.png] <br><br>
+
 if it doesn't work, restart your terminal program and try again<br>
 <br>
 If during the install it gives this error:<br>
@@ -36,7 +39,9 @@ The latest OSX doesn't include the Java for Mac OS X development headers annymor
 
 *LibUSB*<br>
 In the terminal type:<br>
-sudo port install libusb-devel +universal<br><br>
+sudo port install libusb-devel +universal<br>
+[http://www.oneseconds.com/dev/images/libusb.png]<br>
+<br>
 Download the 'OpenNI Unstable Build for MacOSX 10.6 Universal x86/x64 (32/64-bit) v1.0.0.25' from: <a href="http://www.openni.org/downloadfiles/openni-binaries/20-latest-unstable">http://www.openni.org/downloadfiles/openni-binaries/20-latest-unstable</a> and expand the files.<br>
 [http://www.oneseconds.com/dev/images/openni.png]
 <br>
