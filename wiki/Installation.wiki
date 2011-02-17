@@ -22,7 +22,7 @@ Xcode (get a membership first, it's free)<br>
 *Libtool*<br>
 open the terminal and type:<br>
 sudo port install libtool<br>
-
+and press enter<br>
 [http://www.oneseconds.com/dev/images/libtool.png] <br><br>
 
 if it doesn't work, restart your terminal program and try again<br>
@@ -40,19 +40,22 @@ The latest OSX doesn't include the Java for Mac OS X development headers annymor
 *LibUSB*<br>
 In the terminal type:<br>
 sudo port install libusb-devel +universal<br>
+and press enter<br>
 [http://www.oneseconds.com/dev/images/libusb.png]<br>
 <br>
 Download the 'OpenNI Unstable Build for MacOSX 10.6 Universal x86/x64 (32/64-bit) v1.0.0.25' from: <a href="http://www.openni.org/downloadfiles/openni-binaries/20-latest-unstable">http://www.openni.org/downloadfiles/openni-binaries/20-latest-unstable</a> and expand the files.<br>
 [http://www.oneseconds.com/dev/images/openni.png]
 <br>
 <br>
-In the terminal go to the OpenNI directory (the easy way: type 'cd ' and drag and drop the directory from the finder and press enter) and type:;sudo sh install.sh<br><br>
+In the terminal go to the OpenNI directory (the easy way: type 'cd ' and drag and drop the directory from the finder and press enter) and type: sudo sh install.sh<br>
+and press enter<br><br>
 Download the 'PrimeSense NITE Unstable Build for for MacOSX 10.6 Universal x86/x64 (32/64-bit) v1.3.0.18' from: <a href="http://www.openni.org/downloadfiles/openni-compliant-middleware-binaries/33-latest-unstable">http://www.openni.org/downloadfiles/openni-compliant-middleware-binaries/33-latest-unstable</a> and expand the files.<br>
 [http://www.oneseconds.com/dev/images/primesense.png]
 
 <br><br>
 Now in the terminal go to the NITE directory (the easy way: type 'cd ' and drag and drop the directory from the finder and press enter) and type:<br>
 sudo sh install.sh<br>
+and press enter<br>
 use 0KOIk2JeIBYClPWVnMoRKn5cdY4= as licence key
 
 <br><br>
