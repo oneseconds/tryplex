@@ -57,12 +57,13 @@ Download and unpack the processing applet, OSCeleton 11/1/2010 osx build and QC 
 *Download and install the kineme structure maker:*<br>
 http://kineme.net/release/StructureTools/01<br><br>
 
-If you've completed installation procedure, and it's working it's time to play!
+If you've completed installation procedure, and it's working it's time to play!<br><br>
 
+-----------------
 =Running=
 
 First of all, *Quartz Composer should be in 32-bit mode*. To do this, locate the Quartz Composer app in the Developer/Applications folder and press CMD+I when selected. Now select 32-bit mode.
------------------
+
 *To run*<br>
 Connect the kinect<br>
 Open a terminal window and drag and drop osceleton from the 'OSCeleton and sendOSC' folder to the terminal window *(opening from the finder doesn't work!!)* and press enter
@@ -85,8 +86,8 @@ Quit and restart QC and open the composition again, and it'll work. Once a new v
 
 =For questions, error's suggestions, please report to the [http://groups.google.com/group/tryplex-toolkit discussion group!].=
 <br><br><br>
-=Common errors people encountered=
 ------------------
+=Common errors people encountered=
 *Segmentation fault*<br>
 either you're using the latest osceleton build (this error pops up now and then, but in between it works). Or the camera is used by another application, close any open programs and the terminal, disconnect and reconect the kinect. If it still fails, try reinstalling from the begin.
 <br><br>
