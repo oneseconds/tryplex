@@ -2,8 +2,7 @@
 
 
 This is the fast route to install OSCeleton to use with Quartz Composer.<br><br>
-We did our best to document it, at the bottom of this page you'll find common error's people encountered.<br>
-Note that this is quite a tedious operation, it takes some time an patience. Start only if you have some basic knowledge of using the terminal and Quartz Composer.<br>
+We did our best to document it, at the bottom of this page you'll find common error's people encountered. Note that this is quite a tedious operation, it takes some time and patience. Previous installs of kinect/openNI related software could influence the success rate of a installation, so preferably use a clean system with only Xcode and Snow Leopard. Start only if you have some basic knowledge of using the terminal and Quartz Composer.<br>
 Things definitely will get easier in the future, but for now it's all new and still in development by a lot of parties.<br><br>
 
 The installation should take 1 or 2 hours to complete.<br>
