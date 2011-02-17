@@ -1,7 +1,12 @@
 =Installing Xcode, Libtool, Macports, LibUSB, OpenNI, primesense NITE, avin2/sensorkinect, qcOSC=
 
 
-This is the fast route to install OSCeleton to use with Quartz Composer. The installation should take 1 or 2 hours to complete.<br>
+This is the fast route to install OSCeleton to use with Quartz Composer.<br><br>
+We did our best to document it, at the bottom of this page you'll find common error's people encountered.<br>
+Note that this is quite a tedious operation, it takes some time an patience. Start only if you have some basic knowledge of using the terminal and Quartz Composer.<br>
+Things definitely will get easier in the future, but for now it's all new and still in development by a lot of parties.<br><br>
+
+The installation should take 1 or 2 hours to complete.<br>
 For this to work I've used the processing sample to reroute the osc messages into a format that quartz could read.<br>
 In this setup I'm still using the 11/1/2010 build of OSCeleton, it seems to be the most reliable version for osx at the moment. There's a <a href="https://github.com/Sensebloom/OSCeleton" target="_new">newer version</a> (with QC OSC support!) but I still get segmentation errors sometimes and jerky knee/feet data with that version. When there's a more stable build of OSCeleton I'll update this page and the source.
 <br><br>
