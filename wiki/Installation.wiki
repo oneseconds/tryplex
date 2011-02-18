@@ -36,7 +36,7 @@ Error: Failed to install db46<br><br>
 <a href="https://connect.apple.com/cgi-bin/WebObjects/MemberSite.woa/wa/getSoftware?bundleID=20719" target="_new">https://connect.apple.com/cgi-bin/WebObjects/MemberSite.woa/wa/getSoftware?bundleID=20719</a><br>
 The latest OSX doesn't include the Java for Mac OS X development headers annymore standard.
 <br><br>
-
+<br>
 *LibUSB*<br>
 In the terminal type:<br>
 sudo port install libusb-devel +universal<br>
@@ -46,13 +46,13 @@ and press enter<br>
 
 *Important note: Put the following installation files (openNI, NITE and avin2/sensorkinect) in a folder that doesn't contain spaces or weird characters, else it'll generate errors during installation!*<br><br>
 
-Download the 'OpenNI Unstable Build for MacOSX 10.6 Universal x86/x64 (32/64-bit) v1.0.0.25' from: <a href="http://www.openni.org/downloadfiles/openni-binaries/20-latest-unstable">http://www.openni.org/downloadfiles/openni-binaries/20-latest-unstable</a> and expand the files.<br>
+*Download the 'OpenNI Unstable Build for MacOSX 10.6 Universal x86/x64 (32/64-bit) v1.0.0.25' from:* <a href="http://www.openni.org/downloadfiles/openni-binaries/20-latest-unstable">http://www.openni.org/downloadfiles/openni-binaries/20-latest-unstable</a> and expand the files.<br>
 [http://www.oneseconds.com/dev/images/openni.png]
 <br>
 <br>
 In the terminal go to the OpenNI directory (the easy way: type 'cd ' and drag and drop the directory from the finder and press enter) and type: sudo sh install.sh<br>
 and press enter<br><br>
-Download the 'PrimeSense NITE Unstable Build for for MacOSX 10.6 Universal x86/x64 (32/64-bit) v1.3.0.18' from: <a href="http://www.openni.org/downloadfiles/openni-compliant-middleware-binaries/33-latest-unstable">http://www.openni.org/downloadfiles/openni-compliant-middleware-binaries/33-latest-unstable</a> and expand the files.<br>
+*Download the 'PrimeSense NITE Unstable Build for for MacOSX 10.6 Universal x86/x64 (32/64-bit) v1.3.0.18' from:* <a href="http://www.openni.org/downloadfiles/openni-compliant-middleware-binaries/33-latest-unstable">http://www.openni.org/downloadfiles/openni-compliant-middleware-binaries/33-latest-unstable</a> and expand the files.<br>
 [http://www.oneseconds.com/dev/images/primesense.png]
 
 <br><br>
