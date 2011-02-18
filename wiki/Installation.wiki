@@ -43,6 +43,9 @@ sudo port install libusb-devel +universal<br>
 and press enter<br>
 [http://www.oneseconds.com/dev/images/libusb.png]<br>
 <br>
+
+*Important note: Put the next installation files (openNI, NITE and avin2/sensorkinect) in a folder that doesn't contain spaces or weird characters, else it'll generate errors!*<br><br>
+
 Download the 'OpenNI Unstable Build for MacOSX 10.6 Universal x86/x64 (32/64-bit) v1.0.0.25' from: <a href="http://www.openni.org/downloadfiles/openni-binaries/20-latest-unstable">http://www.openni.org/downloadfiles/openni-binaries/20-latest-unstable</a> and expand the files.<br>
 [http://www.oneseconds.com/dev/images/openni.png]
 <br>
