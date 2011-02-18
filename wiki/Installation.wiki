@@ -128,4 +128,4 @@ Referenced from: /Users/blumBlum/Desktop/OPENNI_FOR_QUARTZ/OSCeleton<br>
 QC toolkit v0.1/OSCeleton and sendOSC/osceleton.app<br>
 Reason: image not found<br>
 Trace/BPT trap*<br>
-Check if the OpenNI/Nite/avin2 are nested in a directory with spaces. If they are, put them in a folder without any spaces or unusual characters and repeat the installation procedure.
+Check if the OpenNI/Nite/avin2 installation files you downloaded are nested in a directory with spaces. If they are, put them in a folder without any spaces or unusual characters and repeat the installation procedure.
