@@ -116,16 +116,16 @@ either you're using the latest osceleton build (this error pops up now and then,
 *Image not found/bus error*<br>
 Maybe the camera is used by another application, close any open programs and the termincal, disconnect and reconnect the kinect. Or libusb is not installed (correctly) uninstall and reinstall by opening a new terminal window and type: sudo port uninstall libusb-devel and then:<br>
 sudo port install libusb-devel +universal<br>
-Restart your terminal program and try again. If it still fails, try reinstalling from the begin.
+Restart your terminal program and try again. If it still fails, try reinstalling from the begin.<br><br>
 
 *Quartz composer closes/crashes when opening an example*<br>
-Maybe Quartz isn't in 32-bit mode yet. Locate the Quartz Composer app in the Developer/Applications folder and press CMD+I when selected. Now select 32-bit mode.
+Maybe Quartz isn't in 32-bit mode yet. Locate the Quartz Composer app in the Developer/Applications folder and press CMD+I when selected. Now select 32-bit mode.<br><br>
 
 *During installation: Command not found, No such file directory<br><br>
-and <br><br>
+and <br>
 Library not loaded: ../../Bin/Release/libOpenNI.dylib<br>
 Referenced from: /Users/blumBlum/Desktop/OPENNI_FOR_QUARTZ/OSCeleton<br>
-QC toolkit v0.1/OSCeleton and sendOSC/osceleton.app <br>
- Reason: image not found<br>
+QC toolkit v0.1/OSCeleton and sendOSC/osceleton.app<br>
+Reason: image not found<br>
 Trace/BPT trap*<br>
 Check if the OpenNI/Nite/avin2 are nested in a directory with spaces. If they are, put them in a folder without any spaces or unusual characters and repeat the installation procedure.
