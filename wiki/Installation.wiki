@@ -44,7 +44,7 @@ and press enter<br>
 [http://www.oneseconds.com/dev/images/libusb.png]<br>
 <br><br>
 
-== *Important note: Put the following installation files (openNI, NITE and avin2/sensorkinect) in a folder that doesn't contain spaces or weird characters, else it'll generate errors during installation!* ==<br><br>
+== Important note: Put the following installation files (openNI, NITE and avin2/sensorkinect) in a folder that doesn't contain spaces or weird characters, else it'll generate errors during installation! ==<br><br>
 
 Download the 'OpenNI Unstable Build for MacOSX 10.6 Universal x86/x64 (32/64-bit) v1.0.0.25' from: <a href="http://www.openni.org/downloadfiles/openni-binaries/20-latest-unstable">http://www.openni.org/downloadfiles/openni-binaries/20-latest-unstable</a> and expand the files.<br>
 [http://www.oneseconds.com/dev/images/openni.png]
@@ -59,7 +59,7 @@ Download the 'PrimeSense NITE Unstable Build for for MacOSX 10.6 Universal x86/x
 Now in the terminal go to the NITE directory (the easy way: type 'cd ' and drag and drop the directory from the finder and press enter) and type:<br>
 sudo sh install.sh<br>
 and press enter<br>
-use 0KOIk2JeIBYClPWVnMoRKn5cdY4= as licence key
+use `0KOIk2JeIBYClPWVnMoRKn5cdY4=` as licence key
 
 <br><br>
 *Download the avin2/sensorkinect drivers at:*<br>
