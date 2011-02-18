@@ -121,8 +121,8 @@ Restart your terminal program and try again. If it still fails, try reinstalling
 *Quartz composer closes/crashes when opening an example*<br>
 Maybe Quartz isn't in 32-bit mode yet. Locate the Quartz Composer app in the Developer/Applications folder and press CMD+I when selected. Now select 32-bit mode.<br><br>
 
-*During installation: Command not found, No such file directory<br><br>
-and <br>
+*During installation: Command not found, No such file directory<br>
+and when trying to run:<br>
 Library not loaded: ../../Bin/Release/libOpenNI.dylib<br>
 Referenced from: /Users/blumBlum/Desktop/OPENNI_FOR_QUARTZ/OSCeleton<br>
 QC toolkit v0.1/OSCeleton and sendOSC/osceleton.app<br>
