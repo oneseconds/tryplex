@@ -1,6 +1,6 @@
  * [about about]
    * [HyperWerk Hyperwerk]
    * [oneseconds Oneseconds]
- * [docs Installing and Using]
+
    * [Installation Installing]
    * [Patches The Patches]
