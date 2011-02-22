@@ -2,5 +2,5 @@
    * [HyperWerk Hyperwerk]
    * [oneseconds Oneseconds]
 
- *[Installation Installing]
- *[Patches The Patches]
+* [Installation Installing]
+* [Patches The Patches]
