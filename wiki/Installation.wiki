@@ -139,10 +139,10 @@ Check if the OpenNI/Nite/avin2 installation files you downloaded are nested in a
 If you get something like this:<br><br>
 
 QCPlugIn: Bundle at path "/Library/Graphics/Quartz Composer Plug-Ins/<br>
-StructureTools.plugin" is not a valid Quartz Composer plug-in<br><br>
+StructureTools.plugin" is not a valid Quartz Composer plug-in<br>
 
 <QCNodeManager | namespace = "com.apple.QuartzComposer" | 410 nodes>:<br>
-Patch with name "StructureMaker:KinemeNamedStructureMaker" is missing<br><br>
+Patch with name "StructureMaker:KinemeNamedStructureMaker" is missing<br>
 
 Macro Patch<br>
 Cannot create node of class "StructureMaker" and identifier<br>
