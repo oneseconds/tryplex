@@ -134,3 +134,20 @@ QC toolkit v0.1/OSCeleton and sendOSC/osceleton.app<br>
 Reason: image not found<br>
 Trace/BPT trap*<br>
 Check if the OpenNI/Nite/avin2 installation files you downloaded are nested in a directory with spaces. If they are, put them in a folder without any spaces or unusual characters and repeat the installation procedure.
+
+*StructureTools.plugin" is not a valid Quartz Composer plug-in etc.*<br>
+If you get something like this:<br><br>
+
+QCPlugIn: Bundle at path "/Library/Graphics/Quartz Composer Plug-Ins/<br>
+StructureTools.plugin" is not a valid Quartz Composer plug-in<br><br>
+
+<QCNodeManager | namespace = "com.apple.QuartzComposer" | 410 nodes>:<br>
+Patch with name "StructureMaker:KinemeNamedStructureMaker" is missing<br><br>
+
+Macro Patch<br>
+Cannot create node of class "StructureMaker" and identifier<br>
+"KinemeNamedStructureMaker"<br><br>
+
+The Structuremaker plugin is at the wrong place.<br>
+The Structure maker plug in should be in the /Library/Graphics/Quartz Composer Patches folder<br>
+If that folder doesn't exist, make it and place it there.<br>
