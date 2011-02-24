@@ -66,8 +66,7 @@ use `0KOIk2JeIBYClPWVnMoRKn5cdY4=` as licence key
 <a href="https://github.com/avin2/SensorKinect">https://github.com/avin2/SensorKinect</a> and expand the files.<br>
 Navigate to the avin2/bin folder and expand the 'SensorKinect-MacOSX-5.0.0.tar.bz2' file.<br>
 In the terminal, go to the avin2/bin/SensorKinect-MacOSX-5.0.0 folder and type:<br>
-sudo sh install.sh<br>
-Download and unpack the processing applet, OSCeleton 11/1/2010 osx build and QC example <a href="dev/qcosceleton.zip">QCosceleton.zip</a>
+sudo sh install.sh
 
   <br><br><br>
 *Download and install qcOsc:*<br>
@@ -87,10 +86,10 @@ First of all, *Quartz Composer should be in 32-bit mode*. To do this, locate the
 
 *To run*<br>
 Connect the kinect<br>
-Open a terminal window and drag and drop osceleton from the 'OSCeleton and sendOSC' folder to the terminal window *(opening from the finder doesn't work!!)* and press enter
+Open a terminal window and drag and drop osceleton from the 'OSCeleton and sendOSC' folder in the tryplex toolkit to the terminal window *(opening from the finder doesn't work!!)* and press enter
 
 <br><br>
-Start the  application sendosc from the 'OSCeleton and sendOSC' folder by double clicking<br><br>
+Start the  application sendosc from the 'OSCeleton and sendOSC' folder in the tryplex toolkit by double clicking<br><br>
 open '01 01s_single_skeleton' from the 'QC' folder in quartz composer<br><br>
 http://www.oneseconds.com/dev/images/calibrationpose.png<br><br>
 To calibrate the kinect should have a clear view and you have to stand in front of it with both arms stretched and the upper-arms at 90 degrees. After a second or so it should work and you can move freely!<br>
