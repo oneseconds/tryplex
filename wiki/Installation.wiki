@@ -9,19 +9,19 @@ The installation should take 1 or 2 hours to complete.<br>
 For this to work I've used the processing sample to reroute the osc messages into a format that quartz could read.<br>
 In this setup I'm still using the 11/1/2010 build of OSCeleton, it seems to be the most reliable version for osx at the moment. There's a <a href="https://github.com/Sensebloom/OSCeleton" target="_new">newer version</a> (with QC OSC support!) but I still get segmentation errors sometimes and jerky knee/feet data with that version. When there's a more stable build of OSCeleton I'll update this page and the source.
 <br><br>
-==Step 1==
+==Step 1 - Xcode==
 *Download and install this:*<br>
 Xcode (get a membership first, it's free)<br>
 <a href="http://developer.apple.com/devcenter/mac/index.action">http://developer.apple.com/devcenter/mac/index.action</a><br>
 <a href="https://developer.apple.com/ios/download.action?path=/ios/ios_sdk_4.2__final/xcode_3.2.5_and_ios_sdk_4.2_final.dmg">https://developer.apple.com/ios/download.action?path=/ios/ios_sdk_4.2__final/xcode_3.2.5_and_ios_sdk_4.2_final.dmg</a>
 
 <br><br>
-==Step 2==
+==Step 2 - Macports==
 *Macports*<br>
 <a href="http://distfiles.macports.org/MacPorts/MacPorts-1.9.2-10.6-SnowLeopard.dmg">http://distfiles.macports.org/MacPorts/MacPorts-1.9.2-10.6-SnowLeopard.dmg</a>
 
 <br><br>
-==Step 3==
+==Step 3 - Libtool==
 *Libtool*<br>
 open the terminal and type:<br>
 sudo port install libtool<br>
@@ -40,7 +40,7 @@ Error: Failed to install db46<br><br>
 The latest OSX doesn't include the Java for Mac OS X development headers annymore standard.
 <br><br>
 <br>
-==Step 4==
+==Step 4 - LibUSB==
 *LibUSB*<br>
 In the terminal type:<br>
 sudo port install libusb-devel +universal<br>
@@ -50,7 +50,7 @@ and press enter<br>
 
 *Important note: Put the following installation files (openNI, NITE and avin2/sensorkinect) inside a folder that doesn't contain spaces or weird characters, else it'll generate errors during installation! Leave the folder names of openNI, NITE and avin2/sensorkinect intact.*<br><br>
 
-==Step 5==
+==Step 5 - OpenNI==
 *Download the 'OpenNI Unstable Build for MacOSX 10.6 Universal x86/x64 (32/64-bit) v1.0.0.25' from:* <a href="http://www.openni.org/downloadfiles/openni-binaries/20-latest-unstable">http://www.openni.org/downloadfiles/openni-binaries/20-latest-unstable</a> and expand the files.<br>
 [http://www.oneseconds.com/dev/images/openni.png]
 <br>
@@ -58,7 +58,7 @@ and press enter<br>
 In the terminal go to the OpenNI directory (the easy way: type 'cd ' and drag and drop the directory from the finder and press enter) and type: sudo sh install.sh<br>
 and press enter<br><br>
 
-==Step 6==
+==Step 6 - PrimeSense NITE==
 *Download the 'PrimeSense NITE Unstable Build for for MacOSX 10.6 Universal x86/x64 (32/64-bit) v1.3.0.18' from:* <a href="http://www.openni.org/downloadfiles/openni-compliant-middleware-binaries/33-latest-unstable">http://www.openni.org/downloadfiles/openni-compliant-middleware-binaries/33-latest-unstable</a> and expand the files.<br>
 [http://www.oneseconds.com/dev/images/primesense.png]
 
@@ -66,10 +66,9 @@ and press enter<br><br>
 Now in the terminal go to the NITE directory (the easy way: type 'cd ' and drag and drop the directory from the finder and press enter) and type:<br>
 sudo sh install.sh<br>
 and press enter<br>
-use `0KOIk2JeIBYClPWVnMoRKn5cdY4=` as licence key
+use `0KOIk2JeIBYClPWVnMoRKn5cdY4=` as licence key<br><br>
 
-==Step 7==
-<br><br>
+==Step 7 - avin2/sensorkinect==
 *Download the avin2/sensorkinect drivers at:*<br>
 <a href="https://github.com/avin2/SensorKinect">https://github.com/avin2/SensorKinect</a> and expand the files.<br>
 Navigate to the avin2/bin folder and expand the 'SensorKinect-MacOSX-5.0.0.tar.bz2' file.<br>
@@ -77,6 +76,7 @@ In the terminal, go to the avin2/bin/SensorKinect-MacOSX-5.0.0 folder and type:<
 sudo sh install.sh
 
   <br><br>
+==Step 8 - qcOSC/kineme structure maker =
 *Download and install qcOsc:*<br>
 <a href="http://hexler.net/software/qcosc">http://hexler.net/software/qcosc</a><br>
 Put the plug-in in the */Library/Graphics/Quartz Composer Plug-Ins* folder.<br>
