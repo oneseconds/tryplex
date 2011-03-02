@@ -66,7 +66,7 @@ and press enter<br><br>
 Now in the terminal go to the NITE directory (the easy way: type 'cd ' and drag and drop the directory from the finder and press enter) and type:<br>
 sudo sh install.sh<br>
 and press enter<br>
-use `0KOIk2JeIBYClPWVnMoRKn5cdY4=` as licence key<br><br>
+use *`0KOIk2JeIBYClPWVnMoRKn5cdY4=`* as licence key (and yes, include the '=' sign!)<br><br>
 
 ==Step 7 - avin2/sensorkinect==
 *Download the avin2/sensorkinect drivers at:*<br>
