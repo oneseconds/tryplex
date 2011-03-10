@@ -124,7 +124,7 @@ Quit and restart QC and open the composition again, and it'll work. Once a new v
 ------------------
 =Common errors people encountered=
 
-[http://www.oneseconds.com/dev/images/portproblem.jpg]
+[http://www.oneseconds.com/dev/images/portproblem.jpg]<br><br>
 *Error on opening socket at specified port*<br>
 qcOSC can't open two the same OSC ports at one time. This happens when you open a second composition with the OSC receiver in it. To fix quit and restart QC, and open one composition at the same time.<br><br>
 
