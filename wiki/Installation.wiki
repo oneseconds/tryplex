@@ -123,6 +123,12 @@ Quit and restart QC and open the composition again, and it'll work. Once a new v
 <br><br><br>
 ------------------
 =Common errors people encountered=
+
+[http://www.oneseconds.com/dev/images/portproblem.jpg]
+*Error on opening socket at specified port*<br>
+qcOSC can't open two the same OSC ports at one time. This happens when you open a second composition with the OSC receiver in it. To fix quit and restart QC, and open one composition at the same time.<br><br>
+
+
 *Segmentation fault*<br>
 either you're using the latest osceleton build (this error pops up now and then, but in between it works). Or the camera is used by another application, close any open programs and the terminal, disconnect and reconect the kinect. If it still fails, try reinstalling from the begin.
 <br><br>
