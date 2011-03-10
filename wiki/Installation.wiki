@@ -13,7 +13,8 @@ In this setup I'm still using the 11/1/2010 build of OSCeleton, it seems to be t
 *Download and install this:*<br>
 Xcode (get a membership first, it's free)<br>
 <a href="http://developer.apple.com/devcenter/mac/index.action">http://developer.apple.com/devcenter/mac/index.action</a><br>
-<a href="https://developer.apple.com/ios/download.action?path=/ios/ios_sdk_4.2__final/xcode_3.2.5_and_ios_sdk_4.2_final.dmg">https://developer.apple.com/ios/download.action?path=/ios/ios_sdk_4.2__final/xcode_3.2.5_and_ios_sdk_4.2_final.dmg</a>
+<a href="https://developer.apple.com/ios/download.action?path=/ios/ios_sdk_4.2__final/xcode_3.2.5_and_ios_sdk_4.2_final.dmg">https://developer.apple.com/ios/download.action?path=/ios/ios_sdk_4.2__final/xcode_3.2.5_and_ios_sdk_4.2_final.dmg</a><br>
+*NOTE: Xcode 4 is only free for people enlisted in the developer program, else available for 4.99 in the app store. The Xcode 3.2.5 download link provided still works if you register at the developer page though (and is free)!*
 
 <br><br>
 ==Step 2 - Macports==
