@@ -100,6 +100,9 @@ First of all, *Quartz Composer should be in 32-bit mode*. To do this, locate the
 [http://www.oneseconds.com/dev/images/32bit.png]
 
 *To run*<br>
+
+<wiki:video url="http://www.youtube.com/watch?v=i5QhYgUh6ck"/>
+
 Connect the kinect<br>
 Open a terminal window and drag and drop osceleton from the 'OSCeleton and sendOSC' folder in the tryplex toolkit to the terminal window *(opening from the finder doesn't work!!)* and press enter
 
