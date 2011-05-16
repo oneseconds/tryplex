@@ -91,8 +91,7 @@ If the folder doesn't exist, make a new folder with this name.<br><br>
 
 *Download and install the kineme file tools:*<br>
 http://kineme.net/QuartzComposerPatches/FileTools/<br><br>
-Put the plug-in in the */Library/Graphics/Quartz Composer Patches* folder.<br>
-If the folder doesn't exist, make a new folder with this name.<br><br>
+Put the plug-in in the */Library/Graphics/Quartz Composer Patches* folder.<br><br>
 
 
 If you've completed installation procedure, and it's working it's time to play!<br><br>
