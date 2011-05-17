@@ -10,4 +10,4 @@ Made with tryplex.
 
 <wiki:video url="http://www.youtube.com/watch?v=jFhiHMLtSok"/>
 
-<wiki:gadget url="http://www.oneseconds.com/gcVideo.xml" up_video="http://vimeo.com/21240277" width="640" height="480"/>
+<wiki:gadget url="http://www.oneseconds.com/gcVideo.xml" up_video="http://vimeo.com/21240277" width="425" height="318"/>
