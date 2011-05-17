@@ -9,3 +9,5 @@ Made with tryplex.
 <wiki:video url="http://www.youtube.com/watch?v=Onmg-aUa18o"/>
 
 <wiki:video url="http://www.youtube.com/watch?v=jFhiHMLtSok"/>
+
+<wiki:video url="http://vimeo.com/21240277"/>
