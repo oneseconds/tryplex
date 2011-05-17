@@ -12,5 +12,4 @@ Made with tryplex.
 
 <wiki:video url="http://vimeo.com/21240277"/>
 
-var video = goog.ui.media.VimeoModel.newInstance('http://vimeo.com/30012');
- goog.ui.media.Vimeo.newControl(video).render();
+<wiki:gadget url="http://www.oneseconds.com/gcVideo.xml" up_video="http://vimeo.com/21240277" width="320" height="240"/>
