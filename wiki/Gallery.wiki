@@ -1,13 +1,14 @@
 = Gallery =
 
 Made with tryplex.
-
+<br><br>
+Giuseppe Ragazzini [http://www.giusepperagazzini.com website]
 <wiki:video url="http://www.youtube.com/watch?v=cHoQ_mfKUyk"/>
 
 <wiki:video url="http://www.youtube.com/watch?v=_0a6iLejQ2g"/>
 
 <wiki:video url="http://www.youtube.com/watch?v=Onmg-aUa18o"/>
-<br><br>
+<br><br><br><br>
 *Casey Scalf* [http://www.vimeo.com/user6136182 vimeo]
 
 <wiki:video url="http://www.youtube.com/watch?v=jFhiHMLtSok"/>
