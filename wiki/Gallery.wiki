@@ -9,17 +9,18 @@ Made with tryplex.
 *Jonathan Hammond* [http://justaddmusictv.com]<br><br>
 <wiki:video url="http://www.youtube.com/watch?v=_0a6iLejQ2g"/>
 
-
 <br><br><br><br>
 *oneseconds* [http://www.oneseconds.com]<br><br>
 <wiki:video url="http://www.youtube.com/watch?v=Onmg-aUa18o"/>
+
 <br><br><br><br>
 *Casey Scalf* [http://www.vimeo.com/user6136182 vimeo]<br><br>
-
 <wiki:video url="http://www.youtube.com/watch?v=jFhiHMLtSok"/>
 
 <wiki:gadget url="http://www.oneseconds.com/gcVideo.xml" up_video="http://www.vimeo.com/23779187" width="425" height="318"/>
 
 <wiki:gadget url="http://www.oneseconds.com/gcVideo.xml" up_video="http://www.vimeo.com/22936012" width="425" height="318"/>
 
+<br><br><br><br>
+*Tyson Parks* [http://bearmod.tumblr.com​]
 <wiki:gadget url="http://www.oneseconds.com/gcVideo.xml" up_video="http://vimeo.com/21240277" width="425" height="318"/>
