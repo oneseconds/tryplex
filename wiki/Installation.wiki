@@ -90,9 +90,9 @@ Put the plug-in in the */Library/Graphics/Quartz Composer Patches* folder.<br>
 If the folder doesn't exist, make a new folder with this name.<br><br>
 
 *Download and install the kineme file tools:*<br>
-http://kineme.net/QuartzComposerPatches/FileTools/<br><br>
+http://kineme.net/release/FileTools/05beta20091216<br><br>
 Put the plug-in in the */Library/Graphics/Quartz Composer Patches* folder.<br><br>
-
+You might have to register at kineme and edit your account settings to beta tester to be able to download beta versions/view this page.<br><br>
 
 If you've completed installation procedure, and it's working it's time to play!<br><br>
 
