@@ -30,3 +30,9 @@ Made with tryplex.
 <wiki:video url="http://www.youtube.com/watch?v=keoy_9CxUjA"/>
 
 <wiki:video url="http://www.youtube.com/watch?v=r32o50nTIG0"/>
+
+<wiki:video url="http://www.youtube.com/watch?v=5XF22OUeIvs"/>
+
+<br><br><br><br>
+*Gabe Colors* [http://acolorbox.com/]<br><br>
+<wiki:gadget url="http://www.oneseconds.com/gcVideo.xml" up_video="http://vimeo.com/24740630" width="425" height="318"/>
