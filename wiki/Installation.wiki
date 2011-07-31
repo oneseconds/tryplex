@@ -15,6 +15,7 @@ There are two ways to use the tryplex toolkit. With Synapse you're able to get i
   * Place the plugins from 'QC Plug-ins/Quartz Composer Plug-Ins' in your '/Library/Graphics/Quartz Composer Plug-Ins' folder
   * Place the plugins from 'QC Plug-ins/Quartz Composer Patches' in your '/Library/Graphics/Quartz Composer Patches' folder
   * If these folders don't exist, make them
+  * To install the macro's in your library place them in the /library/graphics/Quartz Composer Patches/ folder.
   * Connect your Kinect, and run Synapse from the 'Synapse' folder.
   * Open and run '01_01s single skeleton.qtz' from the 'QC/ macros sample compositions Synapse' folder.
   * Stand and hold in the cactus position to calibrate.<br><br>
