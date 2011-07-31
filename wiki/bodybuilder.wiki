@@ -1,8 +1,3 @@
 = The bodybuilder app =
 
 <wiki:video url="http://www.youtube.com/watch?v=VUpy-dgxNVE"/>
-
-<br><br>
-NOTE: Different than documented, you'll need the latest kineme filetools beta (0.5) for the skeleton recorder and bodybuilder to work! Please update.<br><br>
-[http://kineme.net/release/FileTools/20100409]<br>
-(you might need to register at kineme and edit your account settings to beta tester)
