@@ -1,3 +1,15 @@
+There are two ways to use the tryplex toolkit. With Synapse you're able to get it running within a few minutes. If you like to use OSCeleton, the installation procedure takes about two hours to complete.
+
+===Synapse===
+  * Singe skeleton tracking
+  * Easily migratable to another system
+  * Depth image
+
+===OSCeleton===
+  * Track up to 6 users
+  * Lower cpu usage
+  * Is a bit more responsive
+
 =Running tryplex with Synapse=
 
   * Place the plugins from 'QC Plug-ins/Quartz Composer Plug-Ins' in your '/Library/Graphics/Quartz Composer Plug-Ins' folder
@@ -8,7 +20,7 @@
   * Stand and hold in the cactus position to calibrate.<br><br>
 http://www.oneseconds.com/dev/images/calibrationpose.png<br><br>
 
-Note: For the Synapse depth image to work QC should run in 64-bit mode (standard)
+Note: For the Synapse depth image to work QC should run in 64-bit mode (standard)<br><br>
 
 =Insalling for use with OSCeleton=
 =Installing Xcode, Libtool, Macports, LibUSB, OpenNI, primesense NITE, avin2/sensorkinect, qcOSC=
