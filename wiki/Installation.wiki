@@ -103,21 +103,10 @@ sudo sh install.sh
  <br><br>
 
 ==Step 8 - qcOSC/kineme structure maker =
-*Download and install qcOsc:*<br>
-<a href="http://hexler.net/software/qcosc">http://hexler.net/software/qcosc</a><br>
-Put the plug-in in the */Library/Graphics/Quartz Composer Plug-Ins* folder.<br>
-If the folder doesn't exist, make a new folder with this name.
 
-<br><br>
-*Download and install the kineme structure maker:*<br>
-http://kineme.net/release/StructureTools/01<br><br>
-Put the plug-in in the */Library/Graphics/Quartz Composer Patches* folder.<br>
-If the folder doesn't exist, make a new folder with this name.<br><br>
-
-*Download and install the kineme file tools:*<br>
-http://kineme.net/release/FileTools/05beta20091216<br><br>
-Put the plug-in in the */Library/Graphics/Quartz Composer Patches* folder.<br><br>
-You might have to register at kineme and edit your account settings to beta tester to be able to download beta versions/view this page.<br><br>
+Place the plugins from 'QC Plug-ins/Quartz Composer Plug-Ins' in your '/Library/Graphics/Quartz Composer Plug-Ins' folder<br><br>
+Place the plugins from 'QC Plug-ins/Quartz Composer Patches' in your '/Library/Graphics/Quartz Composer Patches' folder<br><br>
+If these folders don't exist, make them<br><br>
 
 If you've completed installation procedure, and it's working it's time to play!<br><br>
 
