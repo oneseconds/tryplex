@@ -2,7 +2,11 @@
   * [HyperWerk Hyperwerk]
   * [oneseconds Oneseconds]
 
- * [Installation Installing]<br>
+ * [Installation Installing]
+  * [synapse synapse]
+  * [OSCeleton OSCeleton]
+
+<br><br>
  * [Patches The Patches]<br>
  * [bodybuilder Bodybuilder]<br><br>
  * [Gallery Gallery]<br>
