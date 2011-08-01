@@ -20,7 +20,7 @@ There are two ways to use the tryplex toolkit. With Synapse you're able to get i
   * Open and run '01_01s single skeleton.qtz' from the 'QC/ macros sample compositions Synapse' folder.
   * Stand and hold in the cactus position to calibrate.<br><br>
 http://www.oneseconds.com/dev/images/calibrationpose.png<br><br>
-
+----
 <br><br><br><br>
 =Insalling for use with OSCeleton=
 =Installing Xcode, Libtool, Macports, LibUSB, OpenNI, primesense NITE, avin2/sensorkinect, qcOSC=
