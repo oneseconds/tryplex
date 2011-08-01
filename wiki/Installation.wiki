@@ -4,7 +4,6 @@ There are two ways to use the tryplex toolkit. With Synapse you're able to get i
   * Singe skeleton tracking
   * Depth image
   * Works without installing drivers etc.
-  * Easily migratable to another system
 
 
 ===OSCeleton===
