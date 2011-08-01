@@ -2,6 +2,7 @@ There are two ways to use the tryplex toolkit. With Synapse you're able to get i
 <br><br>
 ===Synapse===
   * Singe skeleton tracking
+  * Works without installing drivers etc.
   * Easily migratable to another system
   * Depth image
 
