@@ -1,7 +1,7 @@
 There are two ways to use the tryplex toolkit. With Synapse you're able to get it running within a few minutes. If you like to use OSCeleton, the installation procedure takes about two hours to complete.
 <br><br>
 ===Synapse===
-  * Singe skeleton tracking
+  * Single skeleton tracking
   * Depth image
   * Works instantly without installing drivers etc.
 
