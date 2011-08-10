@@ -3,7 +3,7 @@ There are two ways to use the tryplex toolkit. With Synapse you're able to get i
 ===Synapse===
   * Single skeleton tracking
   * Depth image
-  * Works instantly without installing drivers etc.
+  * Works without installing drivers etc.
 
 
 ===OSCeleton===
