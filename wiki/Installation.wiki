@@ -99,8 +99,8 @@ use *`0KOIk2JeIBYClPWVnMoRKn5cdY4=`* as licence key (and yes, include the '=' si
 ==Step 7 - avin2/sensorkinect==
 *Download the avin2/sensorkinect drivers at:*<br>
 <a href="https://github.com/avin2/SensorKinect">https://github.com/avin2/SensorKinect</a> and expand the files.<br>
-Navigate to the avin2/bin folder and expand the 'SensorKinect-MacOSX-5.0.0.tar.bz2' file.<br>
-In the terminal, go to the avin2/bin/SensorKinect-MacOSX-5.0.0 folder and type:<br>
+Navigate to the avin2/bin folder and expand the 'SensorKinect-Bin-MacOSX-v5.0.3.4.tar.bz2' file.<br>
+In the terminal, go to the avin2/bin/SensorKinect-Bin-MacOSX-v5.0.3.4 folder and type:<br>
 sudo sh install.sh
  <br><br>
 
