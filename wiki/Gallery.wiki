@@ -2,7 +2,7 @@
 
 Made with tryplex.
 <br><br>
-*Austin, University of Texas 2011*<br><br>
+*Austin, University of Texas 2011*<br>
 <wiki:gadget url="http://www.oneseconds.com/gcVideo.xml" up_video="https://vimeo.com/36948847" width="425" height="318"/><br>
 The Super Mirror is an application of motion-capture technology that uses a Kinect camera to record ballet positions (also called “poses”), capture live motion, and show the difference between the two.
 The research project was developed in the University of Austin in 2011.<br>
@@ -12,7 +12,11 @@ Research Team: João Beira, Nattalie Em, Isabel Paiva, Zoe Marquardt and Sebasti
 -Luis Revilla (UT, School of Information)
 
 <br><br><br><br>
-*Gabe Colors* [http://acolorbox.com/]<br><br>
+*Social Sound* [http://www.socialsound.tk/]<br><br>
+<wiki:video url="http://www.youtube.com/watch?v=8SyxLME_dD4"/>
+
+<br><br><br><br>
+*Gabe Colors* [http://acolorbox.com/]<br>
 <wiki:gadget url="http://www.oneseconds.com/gcVideo.xml" up_video="https://vimeo.com/32074231" width="425" height="318"/>
 
 <br><br><br><br>
