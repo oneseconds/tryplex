@@ -12,6 +12,10 @@ Research Team: João Beira, Nattalie Em, Isabel Paiva, Zoe Marquardt and Sebasti
 -Luis Revilla (UT, School of Information)
 
 <br><br><br><br>
+*Gabe Colors* [http://acolorbox.com/]<br><br>
+<wiki:gadget url="http://www.oneseconds.com/gcVideo.xml" up_video="https://vimeo.com/32074231" width="425" height="318"/>
+
+<br><br><br><br>
 *Giuseppe Ragazzini* [http://www.giusepperagazzini.com]<br><br>
 <wiki:video url="http://www.youtube.com/watch?v=cHoQ_mfKUyk"/>
 
@@ -42,7 +46,3 @@ Research Team: João Beira, Nattalie Em, Isabel Paiva, Zoe Marquardt and Sebasti
 <wiki:video url="http://www.youtube.com/watch?v=r32o50nTIG0"/>
 
 <wiki:video url="http://www.youtube.com/watch?v=5XF22OUeIvs"/>
-
-<br><br><br><br>
-*Gabe Colors* [http://acolorbox.com/]<br><br>
-<wiki:gadget url="http://www.oneseconds.com/gcVideo.xml" up_video="http://vimeo.com/24740630" width="425" height="318"/>
