@@ -24,6 +24,10 @@ There are two ways to use the tryplex toolkit. With Synapse you're able to get i
 http://www.oneseconds.com/dev/images/calibrationpose.png<br><br>
 ----
 <br><br><br><br>
+NOTE: this installation guide is probably outdated.
+Check http://www.codingcolor.com/featured-articles/set-up-kinect-on-osx-10-8-mountain-lion/ for a more up to date guide!
+
+
 =Insalling for use with OSCeleton=
 =Installing Xcode, Libtool, Macports, LibUSB, OpenNI, primesense NITE, avin2/sensorkinect, qcOSC=
 
